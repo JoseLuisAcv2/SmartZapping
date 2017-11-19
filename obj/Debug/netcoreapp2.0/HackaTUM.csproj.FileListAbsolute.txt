@@ -1,0 +1,10 @@
+/home/jose/HackaTUM/bin/Debug/netcoreapp2.0/HackaTUM.deps.json
+/home/jose/HackaTUM/bin/Debug/netcoreapp2.0/HackaTUM.runtimeconfig.json
+/home/jose/HackaTUM/bin/Debug/netcoreapp2.0/HackaTUM.runtimeconfig.dev.json
+/home/jose/HackaTUM/bin/Debug/netcoreapp2.0/HackaTUM.dll
+/home/jose/HackaTUM/bin/Debug/netcoreapp2.0/HackaTUM.pdb
+/home/jose/HackaTUM/obj/Debug/netcoreapp2.0/HackaTUM.csproj.CoreCompileInputs.cache
+/home/jose/HackaTUM/obj/Debug/netcoreapp2.0/HackaTUM.AssemblyInfoInputs.cache
+/home/jose/HackaTUM/obj/Debug/netcoreapp2.0/HackaTUM.AssemblyInfo.cs
+/home/jose/HackaTUM/obj/Debug/netcoreapp2.0/HackaTUM.dll
+/home/jose/HackaTUM/obj/Debug/netcoreapp2.0/HackaTUM.pdb
